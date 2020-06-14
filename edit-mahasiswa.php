@@ -1,7 +1,7 @@
 <!doctype HTML>
 <html>
 <head>
-    <title>Manampilkan hasil inputan form</title>
+    <title>Form Edit Mahasiswa</title>
 
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
