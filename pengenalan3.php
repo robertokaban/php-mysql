@@ -1,7 +1,7 @@
 <!doctype HTML>
 <html>
 <head>
-    <title>Latihan PHP</title>
+    <title>Latihan PHP 3</title>
 </head>
 <body>
 <?php

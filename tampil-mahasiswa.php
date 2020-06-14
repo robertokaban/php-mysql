@@ -10,48 +10,48 @@
     <div class="row">
         <div class="col-md-12">
         <h1>Data Mahasiswa</h1>
-<?php 
+            <?php 
 
-if(@$_GET['pesan']=="inputBerhasil"){
+            if(@$_GET['pesan']=="inputBerhasil"){
 
-?>
-        <div class="alert alert-success">
-        Penyimpanan Berhasil!
-        </div>
-<?php
+            ?>
+                    <div class="alert alert-success">
+                    Penyimpanan Berhasil!
+                    </div>
+            <?php
 
-}
+            }
 
-?>
+            ?>
 
 
-<?php 
+            <?php 
 
-if(@$_GET['pesan']=="hapusBerhasil"){
+            if(@$_GET['pesan']=="hapusBerhasil"){
 
-?>
-        <div class="alert alert-success">
-        Data Berhasil Dihapus!
-        </div>
-<?php
+            ?>
+                    <div class="alert alert-success">
+                    Data Berhasil Dihapus!
+                    </div>
+            <?php
 
-}
+            }
 
-?>
+            ?>
 
-<?php 
+            <?php 
 
-if(@$_GET['pesan']=="editBerhasil"){
+            if(@$_GET['pesan']=="editBerhasil"){
 
-?>
-        <div class="alert alert-success">
-        Perubahan Berhasil!
-        </div>
-<?php
+            ?>
+                    <div class="alert alert-success">
+                    Perubahan Berhasil!
+                    </div>
+            <?php
 
-}
+            }
 
-?>
+            ?>
 
 
         <table id="dataTables" class="table table-bordered">
